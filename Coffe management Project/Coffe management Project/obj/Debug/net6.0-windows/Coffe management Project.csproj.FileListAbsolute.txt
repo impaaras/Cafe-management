@@ -1,0 +1,36 @@
+C:\Users\ss\source\repos\Coffe management Project\Coffe management Project\bin\Debug\net6.0-windows\Coffe management Project.exe
+C:\Users\ss\source\repos\Coffe management Project\Coffe management Project\bin\Debug\net6.0-windows\Coffe management Project.deps.json
+C:\Users\ss\source\repos\Coffe management Project\Coffe management Project\bin\Debug\net6.0-windows\Coffe management Project.runtimeconfig.json
+C:\Users\ss\source\repos\Coffe management Project\Coffe management Project\bin\Debug\net6.0-windows\Coffe management Project.dll
+C:\Users\ss\source\repos\Coffe management Project\Coffe management Project\bin\Debug\net6.0-windows\Coffe management Project.pdb
+C:\Users\ss\source\repos\Coffe management Project\Coffe management Project\obj\Debug\net6.0-windows\Coffe management Project.csproj.AssemblyReference.cache
+C:\Users\ss\source\repos\Coffe management Project\Coffe management Project\obj\Debug\net6.0-windows\Coffe_management_Project.Form1.resources
+C:\Users\ss\source\repos\Coffe management Project\Coffe management Project\obj\Debug\net6.0-windows\Coffe_management_Project.Properties.Resources.resources
+C:\Users\ss\source\repos\Coffe management Project\Coffe management Project\obj\Debug\net6.0-windows\Coffe management Project.csproj.GenerateResource.cache
+C:\Users\ss\source\repos\Coffe management Project\Coffe management Project\obj\Debug\net6.0-windows\Coffe management Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ss\source\repos\Coffe management Project\Coffe management Project\obj\Debug\net6.0-windows\Coffe management Project.AssemblyInfoInputs.cache
+C:\Users\ss\source\repos\Coffe management Project\Coffe management Project\obj\Debug\net6.0-windows\Coffe management Project.AssemblyInfo.cs
+C:\Users\ss\source\repos\Coffe management Project\Coffe management Project\obj\Debug\net6.0-windows\Coffe management Project.csproj.CoreCompileInputs.cache
+C:\Users\ss\source\repos\Coffe management Project\Coffe management Project\obj\Debug\net6.0-windows\Coffe management Project.dll
+C:\Users\ss\source\repos\Coffe management Project\Coffe management Project\obj\Debug\net6.0-windows\refint\Coffe management Project.dll
+C:\Users\ss\source\repos\Coffe management Project\Coffe management Project\obj\Debug\net6.0-windows\Coffe management Project.pdb
+C:\Users\ss\source\repos\Coffe management Project\Coffe management Project\obj\Debug\net6.0-windows\Coffe management Project.genruntimeconfig.cache
+C:\Users\ss\source\repos\Coffe management Project\Coffe management Project\obj\Debug\net6.0-windows\ref\Coffe management Project.dll
+C:\Users\ss\source\repos\Coffe management Project\Coffe management Project\obj\Debug\net6.0-windows\Coffe_management_Project.Dashboard.resources
+C:\Users\ss\source\repos\Coffe management Project\Coffe management Project\obj\Debug\net6.0-windows\Coffe_management_Project.AllUsers.welcome_user.resources
+C:\Users\ss\source\repos\Coffe management Project\Coffe management Project\bin\Debug\net6.0-windows\AutoMapper.dll
+C:\Users\ss\source\repos\Coffe management Project\Coffe management Project\bin\Debug\net6.0-windows\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ss\source\repos\Coffe management Project\Coffe management Project\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ss\source\repos\Coffe management Project\Coffe management Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ss\source\repos\Coffe management Project\Coffe management Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ss\source\repos\Coffe management Project\Coffe management Project\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\ss\source\repos\Coffe management Project\Coffe management Project\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ss\source\repos\Coffe management Project\Coffe management Project\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ss\source\repos\Coffe management Project\Coffe management Project\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ss\source\repos\Coffe management Project\Coffe management Project\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ss\source\repos\Coffe management Project\Coffe management Project\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ss\source\repos\Coffe management Project\Coffe management Project\obj\Debug\net6.0-windows\Coffe management Project.csproj.CopyComplete
+C:\Users\ss\source\repos\Coffe management Project\Coffe management Project\obj\Debug\net6.0-windows\Coffe_management_Project.AllUsers.Uc_addItem.resources
+C:\Users\ss\source\repos\Coffe management Project\Coffe management Project\obj\Debug\net6.0-windows\Coffe_management_Project.AllUsers.UC_PlaceOrder.resources
+C:\Users\ss\source\repos\Coffe management Project\Coffe management Project\obj\Debug\net6.0-windows\Coffe_management_Project.AllUsers.uC_updateItem.resources
+C:\Users\ss\source\repos\Coffe management Project\Coffe management Project\obj\Debug\net6.0-windows\Coffe_management_Project.AllUsers.uC_RemoveItem.resources
